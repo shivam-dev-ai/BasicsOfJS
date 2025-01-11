@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Product 1",
+        "category": "T-shirt",
+        "price": 100,
+        "stock": 10,
+        "image": "https://t3.ftcdn.net/jpg/01/75/89/50/240_F_175895018_rVqP05RQnTwwaZxFUyd2fBAxzXvhOZR6.jpg",
+        "description": "New Style T-shirt"
+    },
+    {
+        "id": 2,
+        "name": "Product 2",
+        "category": "Shoes",
+        "price": 200,
+        "stock": 5,
+        "image": "https://t3.ftcdn.net/jpg/03/02/85/71/240_F_302857104_zKJOsWXWtTpoMZzo4IgJSP7sDr0zzG6W.jpg",
+        "description": "Comfortable Running Shoes"
+    },
+    {
+        "id": 3,
+        "name": "Product 3",
+        "category": "Hat",
+        "price": 50,
+        "stock": 15,
+        "image": "https://t3.ftcdn.net/jpg/02/71/24/15/240_F_271241573_VuM7TxfSwAyWaGxLhp4FEsmihStJDprT.jpg",
+        "description": "Stylish Summer Hat"
+    },
+    {
+        "id": 4,
+        "name": "Product 4",
+        "category": "Jacket",
+        "price": 300,
+        "stock": 8,
+        "image": "https://t3.ftcdn.net/jpg/03/78/63/28/240_F_378632821_mYaVwYpHmsxqjf4kTDR4owXEx9fD4ftb.jpg",
+        "description": "Warm Winter Jacket"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "category": "Jeans",
+        "price": 150,
+        "stock": 20,
+        "image": "https://t3.ftcdn.net/jpg/02/15/41/67/240_F_215416764_9EYzHyqTbbIRMycXzBDdr2t47EK8ThI1.jpg",
+        "description": "Classic Blue Jeans"
+    },
+    {
+        "id": 6,
+        "name": "Product 6",
+        "category": "Bag",
+        "price": 120,
+        
+        "stock": 12,
+        "image": "https://t3.ftcdn.net/jpg/03/23/61/02/240_F_323610271_TLoBrwzLo7g4ObolEBixyrjAMnwwIgjU.jpg",
+ "description": "Durable Backpack"
+    }
+]
